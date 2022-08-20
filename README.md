@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CrispierVase
 - 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently mostly using Python in my Personal-Projects repository. 
-- My Main project is my chess game and engine!
+- 🌱 I’m currently learning rust.
 - 📫 CrispierVase299#9501 on Discord is the best way to reach me
 
 <!---
