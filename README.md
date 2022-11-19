@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrispierVase
 - 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently learning rust.
+- 🌱 I’m currently mostly using rust.
 - 📫 CrispierVase299#9501 on Discord is the best way to reach me
 
 <!---
